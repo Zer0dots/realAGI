@@ -6,7 +6,7 @@
         "royaltide-cli": "./scripts/cli.js"
     },
     "scripts": {
-        "compile": "hardhat compile",
+        "compile": "hardhat compile", 
         "test": "hardhat test",
         "coverage": "hardhat coverage",
         "deploy:local": "hardhat run scripts/deploy.js --network localhost",
